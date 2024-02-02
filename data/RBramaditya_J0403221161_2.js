@@ -1,0 +1,1 @@
+var json_RBramaditya_J0403221161_2 = {"type":"FeatureCollection","name":"RBramaditya_J0403221161_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","kapasitas":"2","nama_kos":"kos pak luki","harga":500000.0},"geometry":{"type":"Point","coordinates":[106.809970801453076,-6.587764704312018]}}]}
